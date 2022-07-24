@@ -1,0 +1,2 @@
+This project contians the use of DOM, setInterval(), clearInterval() and javaScript addEventListener to create an animation.
+CLicking on the button invokes the below object to move in the direction of x and y and also rotate in the specified direction of 180degrees.
